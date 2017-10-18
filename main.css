@@ -1,0 +1,66 @@
+h2, h3{
+  text-align: center;
+}
+
+p{
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+}
+
+img{
+  display:block;
+  margin:auto;
+  margin-top: 10px;
+  width: 150px;
+  height: 100px;
+}
+
+.tabla{
+  position: relative;
+}
+
+.cabeza{
+  border: 1px solid black;
+  background: yellow;
+  padding: 1px 154px 1px;
+  display: inline-block;
+  position: absolute;
+  right: 505px;
+  top: 0px
+}
+
+.cuerpo{
+  position: absolute;
+  left:20px;
+  top: 70px;
+}
+
+.caja_1{
+  border: 1px solid black;
+  width: 250px;
+  height: 350px;
+  float: left;
+}
+.caja_2{
+  border: 1px solid black;
+  width: 250px;
+  height: 350px;
+  float: left;
+}
+.caja_3{
+  border: 1px solid black;
+  width: 250px;
+  height: 350px;
+  float: left;
+}
+
+.pie{
+  border: 1px solid black;
+  background: yellow;
+  padding: 0 247px 0;
+  display: inline;
+  position: absolute;
+  right: 505px;
+  top: 421px
+}
